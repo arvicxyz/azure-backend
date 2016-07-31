@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="AzureBackend.iOS/AzureBackend.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AzureBackend.iOS/Controllers/HomeViewController.cs">
+    <Files>
+      <File FileName="AzureBackend.iOS/Controllers/LoginViewController.cs" Line="18" Column="14" />
+      <File FileName="AzureBackend.iOS/Controllers/RegisterViewController.cs" Line="58" Column="34" />
+      <File FileName="AzureBackend.iOS/Controllers/HomeViewController.cs" Line="35" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AzureBackend.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9F937C3B-63B3-4B11-B352-47B646CB66D2" />
+</Properties>
