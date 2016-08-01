@@ -1,13 +1,18 @@
 #Introduction
-This repository is a project example of a simple login and register mobile app made using Xamarin and Azure as its backend. It contains a splash, login, register and home page view. It also has simple login functions as well as simple register functions.
+This repository is a project example of a simple login and register mobile app made using Xamarin and Azure as its backend. It contains a splash, login, register and home page view. It also caters the functions of a simple login and register mobile application.
 
 #Technology
-Xamarin
-Azure
-
-#Screenshots
+The is created using the following technologies:
+* Xamarin.iOS
+* Azure Easy Tables
+* Azure Mobile Client SDK
+* Azure Mobile SQLiteStore
+* App Service Helpers
 
 #Preview
+##Screenshots
+
+##Demo
 https://www.youtube.com/watch?v=lJsjLW3svXc
 
 #Contest
