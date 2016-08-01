@@ -1,8 +1,8 @@
 #Introduction
-This repository is a project example of a simple login and registration mobile app made using Xamarin and Azure as its backend. It contains a splash, login, register and home page view. It also caters the functions of a simple login and register mobile application.
+This repository is a project example of a simple login and registration mobile app made using Xamarin and Azure as its backend. It contains a splash, login, register and home page view. It also caters the functions of what you will expect in a login and register feature in a mobile application.
 
 #Technology
-The app is created using the following technologies:
+The project is created using the following technologies:
 * Xamarin.iOS
 * Azure Easy Tables
 * Azure Mobile Client SDK
@@ -27,7 +27,7 @@ The app is created using the following technologies:
 <img src="./screenshots/11.png" alt="Screenshot11" width="200"/>
 
 #Contest
-This project was created as a participation to Xamarin's contest, "Add an Azure Backend to Your Mobile App", to win a Xamarin t-shirt! Read the full contest description [here](xmn.io/29Za7R1).
+This project was created as a participation to Xamarin's contest, *"Add an Azure Backend to Your Mobile App"*, to win a Xamarin t-shirt! Read the full contest description [here](xmn.io/29Za7R1).
 
 ###Rules
 >All submissions must be made by **Monday, July 25 at 12 pm EST**. A valid entry consists of a tweet containing the hashtags #Xamarin **AND** #AzureMobile, along with a short video clip of your app connecting to an Azure Mobile Apps backend. A valid entry will win one Xamarin t-shirt. Limit one entry per person. To be eligible, you must follow [@XamarinHQ](https://twitter.com/xamarinhq) to enable us to DM you for private follow up. Please allow up to three weeks for us to verify entries and collect shipping information to send your Xamarin t-shirt. There is no purchase necessary to enter the “Add an Azure Backend To Your Mobile App” contest.
