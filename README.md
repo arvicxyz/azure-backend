@@ -39,3 +39,9 @@ This project was created as a participation to Xamarin's contest, *"Add an Azure
 <a href="https://t.co/lIu6jLV7TX">https://t.co/lIu6jLV7TX</a></p>&mdash; Amir Fahd Hadji Usop (@amirfahd72)
 <a href="https://twitter.com/amirfahd72/status/755766233270628353">July 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+###Tasks
+* [ ] Add loading progress indicator
+* [ ] Customize splash screen view
+* [ ] Improve UI theme and styling
+* [ ] Create an Android version
