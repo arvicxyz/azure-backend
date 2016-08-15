@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="AzureBackend.iOS/AzureBackend.iOS.csproj">
+﻿<Properties StartupItem="AzureBackend.Droid/AzureBackend.Droid.csproj">
   <MonoDevelop.Ide.Workbench ActiveDocument="AzureBackend.iOS/Model/AzureConnection.cs">
     <Files>
       <File FileName="AzureBackend.iOS/Controllers/LoginViewController.cs" Line="18" Column="14" />
@@ -11,4 +11,5 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.AzureBackend.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B31A01D2-C232-4709-BDBD-DD9599581C66" />
+  <MonoDevelop.Ide.ItemProperties.AzureBackend.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_6P_Marshmallow" />
 </Properties>
