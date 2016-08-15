@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBackend.iOS", "AzureBackend.iOS\AzureBackend.iOS.csproj", "{8941205E-4BB2-485A-9425-87C13937245F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBackend.Droid", "AzureBackend.Droid\AzureBackend.Droid.csproj", "{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -19,5 +21,13 @@ Global
 		{8941205E-4BB2-485A-9425-87C13937245F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 		{8941205E-4BB2-485A-9425-87C13937245F}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{8941205E-4BB2-485A-9425-87C13937245F}.Debug|iPhone.Build.0 = Debug|iPhone
+		{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}.Release|iPhone.Build.0 = Release|Any CPU
+		{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
