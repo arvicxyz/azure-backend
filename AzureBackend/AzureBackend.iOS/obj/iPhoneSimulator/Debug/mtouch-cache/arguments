@@ -31,8 +31,6 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/packages/AppService.Helpers.1.0.4/lib/Azure.Mobile.dll \
-	-r \
 	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/packages/Microsoft.Net.Http.2.2.29/lib/Xamarin.iOS10/System.Net.Http.Primitives.dll \
 	-r \
 	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/packages/Microsoft.Net.Http.2.2.29/lib/Xamarin.iOS10/System.Net.Http.Extensions.dll \
@@ -49,7 +47,11 @@
 	-r \
 	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/packages/Microsoft.Azure.Mobile.Client.2.1.1/lib/Xamarin.iOS10/Microsoft.WindowsAzure.Mobile.Ext.dll \
 	-r \
+	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/packages/AppService.Helpers.1.0.4/lib/Azure.Mobile.dll \
+	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/AzureBackend.Portable/bin/Debug/AzureBackend.Portable.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
@@ -311,8 +313,6 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
 	-r \
-	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/packages/AppService.Helpers.1.0.4/lib/Azure.Mobile.dll \
-	-r \
 	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/packages/Microsoft.Net.Http.2.2.29/lib/Xamarin.iOS10/System.Net.Http.Primitives.dll \
 	-r \
 	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/packages/Microsoft.Net.Http.2.2.29/lib/Xamarin.iOS10/System.Net.Http.Extensions.dll \
@@ -328,6 +328,10 @@
 	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/packages/Microsoft.Azure.Mobile.Client.2.1.1/lib/Xamarin.iOS10/Microsoft.WindowsAzure.Mobile.dll \
 	-r \
 	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/packages/Microsoft.Azure.Mobile.Client.2.1.1/lib/Xamarin.iOS10/Microsoft.WindowsAzure.Mobile.Ext.dll \
+	-r \
+	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/packages/AppService.Helpers.1.0.4/lib/Azure.Mobile.dll \
+	-r \
+	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/AzureBackend.Portable/bin/Debug/AzureBackend.Portable.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
 	/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/AzureBackend.iOS/bin/iPhoneSimulator/Debug//AzureBackend.iOS.exe \

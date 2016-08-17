@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBackend.iOS", "AzureBa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBackend.Droid", "AzureBackend.Droid\AzureBackend.Droid.csproj", "{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBackend.Portable", "AzureBackend.Portable\AzureBackend.Portable.csproj", "{FF83A6B3-BCA6-43C1-A571-1B1E912038AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -29,5 +31,13 @@ Global
 		{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{FF83A6B3-BCA6-43C1-A571-1B1E912038AC}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{FF83A6B3-BCA6-43C1-A571-1B1E912038AC}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{FF83A6B3-BCA6-43C1-A571-1B1E912038AC}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{FF83A6B3-BCA6-43C1-A571-1B1E912038AC}.Release|iPhone.Build.0 = Release|Any CPU
+		{FF83A6B3-BCA6-43C1-A571-1B1E912038AC}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{FF83A6B3-BCA6-43C1-A571-1B1E912038AC}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{FF83A6B3-BCA6-43C1-A571-1B1E912038AC}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{FF83A6B3-BCA6-43C1-A571-1B1E912038AC}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal

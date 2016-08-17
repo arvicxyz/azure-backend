@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="AzureBackend.Droid/AzureBackend.Droid.csproj">
+﻿<Properties StartupItem="AzureBackend.iOS/AzureBackend.iOS.csproj">
   <MonoDevelop.Ide.Workbench ActiveDocument="AzureBackend.Droid/MainActivity.cs">
     <Files>
       <File FileName="AzureBackend.Droid/MainActivity.cs" Line="20" Column="29" />

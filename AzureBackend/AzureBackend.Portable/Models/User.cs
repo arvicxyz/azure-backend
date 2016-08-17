@@ -1,6 +1,6 @@
 ﻿using AppServiceHelpers.Models;
 
-namespace AzureBackend.iOS
+namespace AzureBackend.Shared
 {
     public class User : EntityData
     {

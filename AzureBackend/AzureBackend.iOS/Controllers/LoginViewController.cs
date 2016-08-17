@@ -1,5 +1,6 @@
 using System;
 using System.Linq;
+using AzureBackend.Shared;
 using UIKit;
 
 namespace AzureBackend.iOS

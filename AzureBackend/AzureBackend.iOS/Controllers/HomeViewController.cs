@@ -1,4 +1,5 @@
 using System;
+using AzureBackend.Shared;
 using UIKit;
 
 namespace AzureBackend.iOS

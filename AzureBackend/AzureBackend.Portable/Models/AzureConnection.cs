@@ -1,7 +1,7 @@
 ﻿using AppServiceHelpers;
 using AppServiceHelpers.Abstractions;
 
-namespace AzureBackend.iOS
+namespace AzureBackend.Shared
 {
     public class AzureConnection
     {
