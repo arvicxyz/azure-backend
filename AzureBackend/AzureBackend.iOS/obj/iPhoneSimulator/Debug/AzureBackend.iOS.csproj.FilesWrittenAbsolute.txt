@@ -47,3 +47,7 @@
 /Users/CreativeGurus/Repositories/azure-backend/AzureBackend/AzureBackend.iOS/bin/iPhoneSimulator/Debug/SQLitePCL.Ext.dll
 /Users/CreativeGurus/Repositories/azure-backend/AzureBackend/AzureBackend.iOS/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
 /Users/CreativeGurus/Repositories/azure-backend/AzureBackend/AzureBackend.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/AzureBackend.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/AzureBackend.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/AzureBackend.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/CreativeGurus/Repositories/azure-backend/AzureBackend/AzureBackend.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
