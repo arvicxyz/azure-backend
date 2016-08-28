@@ -5,7 +5,7 @@
 	<key>CFBundleName</key>
 	<string>Azure Backend</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.redhalfstudios.azurebackend</string>
+	<string>com.arvicxyz.azurebackend</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0.0</string>
 	<key>CFBundleVersion</key>
