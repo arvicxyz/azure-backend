@@ -6,12 +6,20 @@
     android:minWidth="25px"
     android:minHeight="25px">
     <TextView
+        android:id="@+id/textView"
         android:text="Azure Backend"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView1"
-        android:textAppearance="@android:style/TextAppearance.Material.Display1"
-        android:gravity="center"
         android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true" />
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:textAppearance="@android:style/TextAppearance.Material.Display1" />
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="230.0dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25.0dp"
+        style="?android:attr/progressBarStyleHorizontal" />
 </RelativeLayout>
