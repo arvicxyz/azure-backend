@@ -1,9 +1,8 @@
 ﻿<Properties StartupItem="AzureBackend.Droid/AzureBackend.Droid.csproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AzureBackend.Droid/Activities/SplashActivity.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="AzureBackend.Droid/Activities/SplashActivity.cs" Line="61" Column="22" />
       <File FileName="AzureBackend.Droid/Activities/HomeActivity.cs" Line="13" Column="47" />
-      <File FileName="AzureBackend.Droid/Activities/LoginActivity.cs" Line="14" Column="51" />
+      <File FileName="AzureBackend.Droid/Activities/LoginActivity.cs" Line="14" Column="1" />
       <File FileName="AzureBackend.Droid/Activities/RegisterActivity.cs" Line="12" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
