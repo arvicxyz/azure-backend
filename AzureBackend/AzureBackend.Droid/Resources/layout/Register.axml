@@ -12,7 +12,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/usernameInput"
-            android:hint="Username" />
+            android:hint="Username">
+            <requestFocus />
+        </EditText>
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
