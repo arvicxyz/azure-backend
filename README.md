@@ -10,8 +10,8 @@ The project is created using the following technologies:
 * App Service Helpers
 
 #Preview
-###Demo
-[Azure Backend Login/Register Mobile App](https://www.youtube.com/watch?v=lJsjLW3svXc)
+###Video Demo
+[Watch - Azure Backend Login/Register Mobile App](https://www.youtube.com/watch?v=lJsjLW3svXc)
 
 ###Screenshots
 <img src="./screenshots/1.png" alt="Screenshot1" width="200"/>
