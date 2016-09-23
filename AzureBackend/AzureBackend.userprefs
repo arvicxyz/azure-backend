@@ -1,10 +1,9 @@
 ﻿<Properties StartupItem="AzureBackend.Droid/AzureBackend.Droid.csproj">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AzureBackend.Droid/Activities/LoginActivity.cs">
     <Files>
-      <File FileName="AzureBackend.Droid/Activities/HomeActivity.cs" Line="16" Column="6" />
-      <File FileName="AzureBackend.Droid/Activities/LoginActivity.cs" Line="14" Column="1" />
+      <File FileName="AzureBackend.Droid/Activities/LoginActivity.cs" Line="18" Column="1" />
       <File FileName="AzureBackend.Droid/Activities/RegisterActivity.cs" Line="12" Column="10" />
-      <File FileName="AzureBackend.Portable/Models/AzureConnection.cs" Line="31" Column="1" />
+      <File FileName="AzureBackend.Droid/Activities/HomeActivity.cs" Line="4" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -13,5 +12,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.AzureBackend.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
-  <MonoDevelop.Ide.ItemProperties.AzureBackend.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.CVH7N15C03001830" />
+  <MonoDevelop.Ide.ItemProperties.AzureBackend.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus6P" />
 </Properties>
