@@ -40,8 +40,11 @@ This project was created as a participation to Xamarin's contest, *"Add an Azure
 <a href="https://twitter.com/amirfahd72/status/755766233270628353">July 20, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+###Price
+<img src="https://scontent.fmnl4-6.fna.fbcdn.net/v/t1.0-9/14581542_1243353772351603_6140391213456133030_n.jpg?oh=3fbf15e6085d18b204eb0b6a9431c584&oe=586DF920" alt="Xamarin T-Shirt"/>
+
 #Tasks
+* [x] Create an Android version
 * [ ] Add loading progress indicator
 * [ ] Customize splash screen view
 * [ ] Improve UI theme and styling
-* [ ] Create an Android version
