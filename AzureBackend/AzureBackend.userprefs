@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="AzureBackend.Droid/AzureBackend.Droid.csproj">
+﻿<Properties StartupConfiguration="{3B88B438-4C66-47AA-B8BF-C949CD87EBFD}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="AzureBackend.Droid/Activities/LoginActivity.cs">
     <Files>
       <File FileName="AzureBackend.Droid/Activities/LoginActivity.cs" Line="18" Column="1" />
