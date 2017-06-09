@@ -31,9 +31,3 @@ This project was created as a participation to Xamarin's contest, *"Add an Azure
 
 ### Price
 <img src="./screenshots/prize.jpg" alt="Xamarin T-Shirt" width="500"/>
-
-# Tasks
-* [x] Create an Android version
-* [ ] Add loading progress indicator
-* [ ] Customize splash screen view
-* [ ] Improve UI theme and styling
