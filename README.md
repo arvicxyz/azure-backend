@@ -14,17 +14,7 @@ The project is created using the following technologies:
 [Watch - Azure Backend Login/Register Mobile App](https://www.youtube.com/watch?v=lJsjLW3svXc)
 
 ### Screenshots
-<img src="./screenshots/1.png" alt="Screenshot1" width="200"/>
-<img src="./screenshots/2.png" alt="Screenshot2" width="200"/>
-<img src="./screenshots/3.png" alt="Screenshot3" width="200"/>
-<img src="./screenshots/4.png" alt="Screenshot4" width="200"/>
-<img src="./screenshots/5.png" alt="Screenshot5" width="200"/>
-<img src="./screenshots/6.png" alt="Screenshot6" width="200"/>
-<img src="./screenshots/7.png" alt="Screenshot7" width="200"/>
-<img src="./screenshots/8.png" alt="Screenshot8" width="200"/>
-<img src="./screenshots/9.png" alt="Screenshot9" width="200"/>
-<img src="./screenshots/10.png" alt="Screenshot10" width="200"/>
-<img src="./screenshots/11.png" alt="Screenshot11" width="200"/>
+<img src="./screenshots/1.png" alt="Screenshot1" width="200"/><img src="./screenshots/2.png" alt="Screenshot2" width="200"/><img src="./screenshots/3.png" alt="Screenshot3" width="200"/><img src="./screenshots/4.png" alt="Screenshot4" width="200"/><img src="./screenshots/5.png" alt="Screenshot5" width="200"/><img src="./screenshots/6.png" alt="Screenshot6" width="200"/><img src="./screenshots/7.png" alt="Screenshot7" width="200"/><img src="./screenshots/8.png" alt="Screenshot8" width="200"/><img src="./screenshots/9.png" alt="Screenshot9" width="200"/><img src="./screenshots/10.png" alt="Screenshot10" width="200"/><img src="./screenshots/11.png" alt="Screenshot11" width="200"/>
 
 # Contest
 This project was created as a participation to Xamarin's contest, *"Add an Azure Backend to Your Mobile App"*, to win a Xamarin t-shirt! Read the full contest description [here](https://blog.xamarin.com/contest-add-an-azure-backend-to-your-mobile-app/?utm_medium=social&utm_campaign=blog&utm_source=twitter&utm_content=azure-tshirt-sweepstakes).
